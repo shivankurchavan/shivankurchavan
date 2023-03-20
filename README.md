@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivankurchavan
 - 👀 I’m interested in learning everything
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on C++ related projects & learn from you all 
 - 📫 How to reach me @ shivankurchavan@gmail.com
 
