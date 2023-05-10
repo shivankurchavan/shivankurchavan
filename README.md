@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on related projects & learn from you all 
 - 📫 How to reach me @ shivankurchavan@gmail.com
+- 🕸️ Checkout my new website https://shivankurchavan.com
 
 
 <!---
