@@ -5,8 +5,8 @@
 
 ## Connect with me
 
-[<img src="https://github.com/shivankurchavan/shivankurchavan/blob/main/twitter.svg" alt="Twitter" height="32" target="_blank">](https://twitter.com/ChavanShivankur) | [<img src="https://github.com/shivankurchavan/shivankurchavan/blob/main/Linkedin.svg" alt="LinkedIn logo" height="32" target="_blank">](https://www.linkedin.com/in/shivankurchavan/) | [<img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="32" target="_blank">](https://www.codechef.com/) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/codeforces.svg" alt="Codeforces logo" height="32" target="_blank">](https://codeforces.com/) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/leet-code.svg" alt="Leetcode logo" height="32" target="_blank">](https://leetcode.com/)
-|:---:|:---:|:---:|:---:|:---:|
+[<img src="https://github.com/shivankurchavan/shivankurchavan/blob/main/twitter.svg" alt="Twitter" height="32" target="_blank">](https://twitter.com/ChavanShivankur) | [<img src="https://github.com/shivankurchavan/shivankurchavan/blob/main/Linkedin.svg" alt="LinkedIn logo" height="32" target="_blank">](https://www.linkedin.com/in/shivankurchavan/)
+|:---:|:---:|
 <!---
 **Languages and Tools:** 
 <p align="center">
